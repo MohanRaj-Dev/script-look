@@ -4,3 +4,4 @@ django-debug-toolbar==3.2.2
 django-heroku==0.3.1
 django-jazzmin==2.6.0
 django-summernote==0.8.11.6
+psycopg2-binary==2.9.7
